@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenshellDenejour, im a coder since 10 years old and electronical expert since 6 years old!!
+- 👋 Hi, I’m @DenshellDenejour, im a programmer since 8 years old and i begin in the electronic at 6 years old!!
 - 👀 I’m interested in AI, Websites, Aerospace Tecnologies!!
 - 🌱 I’m currently learning Dart and Kotlin!!
 - 💞️ I’m looking to collaborate on ...
